@@ -6,7 +6,7 @@ Email:  RZFeeser@example.com
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Welcome! This repo contains two weeks of script examples we created while studying Python and Linux.
 
 ## Getting Started
 
